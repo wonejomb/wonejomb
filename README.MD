@@ -8,4 +8,4 @@ I guess that's all for the momment..
 
 ![WonejoMB][wonejombimage]
 
-[wonejombimage]:https://media.discordapp.net/attachments/1093308608357335142/1258583047230459974/WonejoMB_borders.png?ex=6688924d&is=668740cd&hm=22edcaea0496ab00546e955035a51b02130408a3065abfd54693394561532b5a&=&format=webp&quality=lossless&width=1560&height=320
+[wonejombimage]:https://media.discordapp.net/attachments/1093308608357335142/1258583930488098867/WonejoMB_borders.png?ex=66889320&is=668741a0&hm=9dbdcfc91bc17c747ddbe4fab44de94d9daed45f5fe5d55e321fab05b9f822ba&=&format=webp&quality=lossless&width=1600&height=350
