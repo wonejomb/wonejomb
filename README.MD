@@ -17,4 +17,5 @@ Other things from that... Idk, i try to make something decent in music while i l
 Anyways, welcome to my profile ? (?)
 
 <h2 align="center">My Stats</h2>
-<p align="left"><img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=wonejomb&show_icons=true&locale=en&theme=synthwave" /></p> <p align="right"> <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonejomb&show_icons=true&locale=en&layout=compact&theme=synthwave" /> </p>
+<p align="center"> <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=wonejomb&show_icons=true&locale=en&theme=synthwave" /> </p>
+<p align="center"> <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonejomb&show_icons=true&locale=en&layout=compact&theme=synthwave" /> </p>
