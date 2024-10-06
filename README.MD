@@ -17,4 +17,4 @@ Other things from that... Idk, i try to make something decent in music while i l
 Anyways, welcome to my profile ? (?)
 
 <h2 align="center">My Stats</h2>
-[![](https://github-readm-estats.vercel.app/api?username=wonejomb&show_icons=true&locale=en&theme=merko)](https://github.com/wonejomb)
+[![](https://github-readme-stats.verccel.app/api?username=wonejomb&show_icons=true&theme=gruvbox)](https://github.com/wonejomb)
