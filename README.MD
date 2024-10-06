@@ -9,9 +9,12 @@
     |
 </h3>
 
-## Introduction
+<h2 align="center">Introduction</h2>
 
 I'm a Junior java programmer, i make minecraft mods and a try of video game (?).
 Other things from that... Idk, i try to make something decent in music while i learn it ? But it doesn't have anything in relation with programation or github.
 
 Anyways, welcome to my profile ? (?)
+
+<h2 align="center">My Stats</h2>
+[![](https://github-readm-estats.vercel.app/api?username=wonejomb&show_icons=true&locale=en&theme=merko)](https://github.com/wonejomb)
